@@ -19,11 +19,13 @@ We need to solve these problems：
  	2. To set the appropriate resolution    
  	3. others  
 5. Installation of software tools     
-    1. **Update the vim**  
-	Enter commands to the terminal:  
-	__sudo apt-get install vim-gtk__  
+    1. **Update the vim**    
+	Enter commands to the terminal:    
+	__sudo apt-get install vim-gtk__    
 ![update vim](https://raw.githubusercontent.com/markchan3/markchan3.github.io/master/img/learningC%2B%2B/update%20the%20vim.png)
 	2. **Install the kate for the C++ development**  
 	Enter commands to the terminal:  
 	__sudo apt-get install kate__  
 ![update kate](https://raw.githubusercontent.com/markchan3/markchan3.github.io/master/img/learningC%2B%2B/install%20kate.png)
+Author Markchan     
+01/02/2019
