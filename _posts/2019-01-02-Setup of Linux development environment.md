@@ -8,9 +8,9 @@
 ![VMware12Pro.png](https://raw.githubusercontent.com/markchan3/markchan3.github.io/master/img/learningC%2B%2B/VMware12Pro.png)
 # 2.Install the ubuntu-14.04.5-desktop-i386
 1. Choose the version of ubuntu you want to install through the flowings links
-  http://mirrors.zju.edu.cn/ubuntu-releases/14.04.5/
+  [http://mirrors.zju.edu.cn/ubuntu-releases/14.04.5/](http://mirrors.zju.edu.cn/ubuntu-releases/14.04.5/)
 2. Install the ubuntu to VMware
- https://jingyan.baidu.com/article/ad310e801a04db1849f49e3a.html
+ [https://jingyan.baidu.com/article/ad310e801a04db1849f49e3a.html](https://jingyan.baidu.com/article/ad310e801a04db1849f49e3a.html)
 3. The virtual machine after successful installation 
 4. Basic configuration of virtual machines
 We need to solve these problems：
