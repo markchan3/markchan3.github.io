@@ -5,4 +5,4 @@
 
 ---
 # 1.VMware 12 environment set up
-![image](https://github.com/markchan3/markchan3.github.io/blob/master/img/learningC%2B%2B/VMware12Pro.png)
+![image](https://raw.githubusercontent.com/markchan3/markchan3.github.io/master/img/learningC%2B%2B/VMware12Pro.png)
