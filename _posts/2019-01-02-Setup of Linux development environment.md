@@ -21,7 +21,8 @@ We need to solve these problems：
 5. Installation of software tools
     1. Update the vim
 	Enter commands to the terminal:
-		apt-get install vim
+![update vim](https://raw.githubusercontent.com/markchan3/markchan3.github.io/master/img/learningC%2B%2B/update%20the%20vim.png)
 	2. Install the kate for the C++ development
 	Enter commands to the terminal:
 		sudo apt-get install kate
+![update kate](https://raw.githubusercontent.com/markchan3/markchan3.github.io/master/img/learningC%2B%2B/install%20kate.png)
