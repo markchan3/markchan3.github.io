@@ -103,5 +103,8 @@ friends: [
     {
         title: "MC",
         href: "https://mp.csdn.net/"
-   }
+   },{
+        title: "简书·MC",
+        href: "https://www.jianshu.com/u/b0d80994ee1b"
+    }
 ]
