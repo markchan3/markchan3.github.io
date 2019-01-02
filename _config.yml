@@ -101,10 +101,14 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "MC",
+        title: "CSDN_MC",
         href: "https://mp.csdn.net/"
    },{
         title: "简书·MC",
         href: "https://www.jianshu.com/u/b0d80994ee1b"
+    },{
+        title: "EETOP·MC",
+        href: "http://bbs.eetop.cn/space-uid-1482181.html"
     }
+    
 ]
